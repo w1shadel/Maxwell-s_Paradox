@@ -1,0 +1,47 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cusomphantom.move": {
+			"loop": true,
+			"animation_length": 2.417,
+			"bones": {
+				"tail": {
+					"rotation": {
+						"vector": ["-5.0 * Math.cos(297.9380535 * query.anim_time) - 5.0", 0, 0]
+					}
+				},
+				"tailtip": {
+					"rotation": {
+						"vector": ["-5.0 * Math.cos(297.9380535 * query.anim_time) - 5.0", 0, 0]
+					}
+				},
+				"wing0": {
+					"rotation": {
+						"vector": [0, 0, "16.0 * Math.cos(148.9690267 * query.anim_time)"]
+					}
+				},
+				"wing1": {
+					"rotation": {
+						"vector": [0, 0, "-16.0 * Math.cos(148.9690267 * query.anim_time)"]
+					}
+				},
+				"wingtip0": {
+					"rotation": {
+						"vector": [0, 0, "16.0 * Math.cos(148.9690267 * query.anim_time)"]
+					}
+				},
+				"wingtip1": {
+					"rotation": {
+						"vector": [0, 0, "-16.0 * Math.cos(148.9690267 * query.anim_time)"]
+					}
+				}
+			},
+			"sound_effects": {
+				"1.4": {
+					"effect": "flap"
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

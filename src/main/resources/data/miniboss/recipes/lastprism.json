@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "miniboss:cosmilite_ingot"
+  },
+  "base": {
+    "item": "minecraft:grass_block"
+  },
+  "result": {
+    "item": "miniboss:lastprism"
+  },
+  "template": {
+    "item": "miniboss:stardustsword"
+  }
+}

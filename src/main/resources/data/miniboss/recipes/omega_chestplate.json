@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "miniboss:phantom_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "result": {
+    "item": "miniboss:omega_chestplate"
+  },
+  "template": {
+    "item": "miniboss:nullspec_ingot"
+  }
+}

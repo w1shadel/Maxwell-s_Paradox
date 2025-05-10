@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "miniboss:phantom_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_boots"
+  },
+  "result": {
+    "item": "miniboss:omega_boots"
+  },
+  "template": {
+    "item": "miniboss:nullspec_ingot"
+  }
+}

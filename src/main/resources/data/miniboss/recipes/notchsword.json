@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "miniboss:phantom_ingot"
+  },
+  "base": {
+    "item": "miniboss:spearofremannt"
+  },
+  "result": {
+    "item": "miniboss:notchsword"
+  },
+  "template": {
+    "item": "miniboss:nullspec_ingot_upgreaded"
+  }
+}

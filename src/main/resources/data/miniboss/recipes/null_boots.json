@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "miniboss:nullspec_ingot_upgreaded"
+  },
+  "base": {
+    "item": "miniboss:omega_boots"
+  },
+  "result": {
+    "item": "miniboss:null_boots"
+  },
+  "template": {
+    "item": "miniboss:nullspec_ingot"
+  }
+}

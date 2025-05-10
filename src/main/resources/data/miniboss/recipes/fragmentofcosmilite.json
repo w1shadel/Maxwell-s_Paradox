@@ -1,0 +1,24 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "key":
+  {
+    "A":
+    {
+      "item":"miniboss:meteofragment"
+    },
+    "B":
+    {
+      "item":"miniboss:ghost_ingot"
+    }
+  },
+  "pattern":
+  [
+    " B ",
+    "BAB",
+    " B "
+  ],
+  "result":
+  {
+    "item":"miniboss:fragmentofcosmilite"
+  }
+}

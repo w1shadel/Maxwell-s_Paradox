@@ -1,0 +1,18 @@
+{
+  "null.disruption_bolt": {
+    "sounds": [
+      {
+        "name": "miniboss:disruption_bolt",
+        "stream": false
+      }
+    ]
+  },
+  "null.beam_shoot": {
+    "sounds": [
+      {
+        "name": "miniboss:beam_shoot",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "texture_size": [
+    32,
+    32
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        89.25,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -2.25,
+        -12.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        90.25,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -1.75,
+        -12
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        92.75,
+        0,
+        0
+      ],
+      "translation": [
+        -2,
+        3,
+        -7
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        58,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -4.25,
+        -6
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        -4.5,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        90.84,
+        -53.99,
+        90.69
+      ],
+      "translation": [
+        4.5,
+        -6.75,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        -86,
+        0
+      ],
+      "translation": [
+        0,
+        -5.75,
+        0
+      ]
+    }
+  },
+  "textures": {
+    "particle": "miniboss:item/herobrinesword"
+  }
+}

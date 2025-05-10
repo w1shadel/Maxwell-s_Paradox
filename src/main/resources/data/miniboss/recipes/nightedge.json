@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "miniboss:spearofremannt"
+  },
+  "base": {
+    "item": "miniboss:herobrinesword"
+  },
+  "result": {
+    "item": "miniboss:nightedge"
+  },
+  "template": {
+    "item": "miniboss:notchsword"
+  }
+}

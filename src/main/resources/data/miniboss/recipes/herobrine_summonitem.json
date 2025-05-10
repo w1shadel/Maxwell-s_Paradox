@@ -1,0 +1,28 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "key":
+  {
+    "A":
+    {
+      "item":"minecraft:gold_block"
+    },
+    "B":
+    {
+      "item":"minecraft:netherrack"
+    },
+    "C":
+    {
+      "item":"minecraft:redstone_torch"
+    }
+  },
+  "pattern":
+  [
+    " B ",
+    "CBC",
+    "AAA"
+  ],
+  "result":
+  {
+    "item":"miniboss:herobrine_summonitem"
+  }
+}

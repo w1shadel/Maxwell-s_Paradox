@@ -1,0 +1,28 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "key":
+  {
+    "A":
+    {
+      "item":"minecraft:heart_of_the_sea"
+    },
+    "B":
+    {
+      "item":"miniboss:phantom_ingot"
+    },
+    "C":
+    {
+      "item":"minecraft:echo_shard"
+    }
+  },
+  "pattern":
+  [
+    "BCB",
+    " A ",
+    " C "
+  ],
+  "result":
+  {
+    "item":"miniboss:spearofremannt"
+  }
+}

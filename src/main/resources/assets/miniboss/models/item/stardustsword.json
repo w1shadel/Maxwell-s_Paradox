@@ -1,0 +1,72 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "texture_size": [
+    64,
+    64
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        -4,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        -3.5,
+        0
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        -8,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        -9.5,
+        0
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        -6,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        -92.64,
+        40.43,
+        91.7
+      ],
+      "translation": [
+        12.5,
+        -12.25,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        -86.35,
+        -45,
+        -87.34
+      ],
+      "translation": [
+        -12.5,
+        -13.75,
+        0
+      ]
+    }
+  },
+  "textures": {
+    "particle": "miniboss:item/stardustsword"
+  }
+}

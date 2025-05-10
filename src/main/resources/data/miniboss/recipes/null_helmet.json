@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "miniboss:nullspec_ingot_upgreaded"
+  },
+  "base": {
+    "item": "miniboss:omega_helmet"
+  },
+  "result": {
+    "item": "miniboss:null_helmet"
+  },
+  "template": {
+    "item": "miniboss:nullspec_ingot"
+  }
+}

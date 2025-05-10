@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "miniboss:phantom_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "result": {
+    "item": "miniboss:omega_helmet"
+  },
+  "template": {
+    "item": "miniboss:nullspec_ingot"
+  }
+}

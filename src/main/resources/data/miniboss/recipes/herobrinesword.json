@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "miniboss:ghost_ingot"
+  },
+  "base": {
+    "item": "miniboss:spearofremannt"
+  },
+  "result": {
+    "item": "miniboss:herobrinesword"
+  },
+  "template": {
+    "item": "miniboss:nullspec_ingot_upgreaded"
+  }
+}

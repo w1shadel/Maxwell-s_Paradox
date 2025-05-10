@@ -1,0 +1,24 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "key":
+  {
+    "A":
+    {
+      "item":"minecraft:iron_sword"
+    },
+    "B":
+    {
+      "item":"miniboss:phantom_ingot"
+    }
+  },
+  "pattern":
+  [
+    " B ",
+    " A ",
+    " A "
+  ],
+  "result":
+  {
+    "item":"miniboss:murasama_notawakend"
+  }
+}

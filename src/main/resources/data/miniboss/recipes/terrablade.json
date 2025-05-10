@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "miniboss:nightedge"
+  },
+  "base": {
+    "item": "miniboss:terraprism_minecraft"
+  },
+  "result": {
+    "item": "miniboss:terrablade_minecraft"
+  },
+  "template": {
+    "item": "miniboss:lastprism"
+  }
+}

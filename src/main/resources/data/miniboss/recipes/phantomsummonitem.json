@@ -1,0 +1,24 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "key":
+  {
+    "A":
+    {
+      "item":"minecraft:redstone_block"
+    },
+    "B":
+    {
+      "item":"minecraft:phantom_membrane"
+    }
+  },
+  "pattern":
+  [
+    " B ",
+    "BAB",
+    " B "
+  ],
+  "result":
+  {
+    "item":"miniboss:phantomsummonitem"
+  }
+}
